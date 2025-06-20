@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BgZKywADxcg=",
+  "success": true,
+  "projectFilePath": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\FloatingNoteApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simbat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

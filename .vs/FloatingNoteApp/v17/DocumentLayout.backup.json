@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developer\\FloatingNoteApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|d:\\developer\\floatingnoteapp\\floatingnoteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|solutionrelative:floatingnoteapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|d:\\developer\\floatingnoteapp\\floatingnoteapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|solutionrelative:floatingnoteapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|d:\\developer\\floatingnoteapp\\floatingnoteapp\\floatingnoteapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83D1EDA6-D917-4068-8326-33B6679DBA1D}|FloatingNoteApp\\FloatingNoteApp.csproj|solutionrelative:floatingnoteapp\\floatingnoteapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FloatingNoteApp",
+              "DocumentMoniker": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\FloatingNoteApp.csproj",
+              "RelativeDocumentMoniker": "FloatingNoteApp\\FloatingNoteApp.csproj",
+              "ToolTip": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\FloatingNoteApp.csproj",
+              "RelativeToolTip": "FloatingNoteApp\\FloatingNoteApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T11:19:54.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FloatingNoteApp\\MainWindow.xaml",
+              "ToolTip": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\MainWindow.xaml",
+              "RelativeToolTip": "FloatingNoteApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-20T11:18:45.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FloatingNoteApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Developer\\FloatingNoteApp\\FloatingNoteApp\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "FloatingNoteApp\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAiwJEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T11:18:44.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
